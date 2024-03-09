@@ -1,1 +1,1 @@
-"# Newspaper-using-Html-CSS" 
+"# Newspaper project using HTML & CSS" 
